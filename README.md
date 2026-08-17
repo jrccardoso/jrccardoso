@@ -1,5 +1,5 @@
-## Hi there 👋
-<h1 align="center">Olá, sou o João Ricardo 👋</h1>
+<!-- ## Hi there 👋 -->
+<h1 align="center">Olá, sou o João Cardoso 👋</h1>
  
 <p align="center">
   Manager @ Accenture · AI Transformation & SDLC Agentification · Modernização de plataformas
@@ -12,11 +12,11 @@
  
 ### 🧭 Sobre mim
  
-Consultor de tecnologia focado em transformação com IA e modernização de software. No dia a dia trabalho em **agentificação do SDLC**, automação de QA/testes e migração de plataformas legacy para stacks modernas. Fora do trabalho, entusiasta de **home automation** e **self-hosted tooling** — se envolve Docker, n8n ou Home Assistant, provavelmente tenho um contentor a correr para isso.
+Consultor de tecnologia focado em transformação com IA e modernização de software. No dia a dia trabalho em **agentificação do SDLC**, automação de QA/testes e migração de plataformas legacy para stacks modernas. Fora do trabalho, entusiasta de **home automation** e **AI Tooling** — se envolve automatizar com ou sem AI, provavelmente tenho um contentor a correr para isso.
  
 - 🔭 A trabalhar em plataformas de automação de testes E2E e análise de falhas com LLMs
 - 🌱 A aprofundar arquiteturas agentic (MCP, A2A), RAG e orquestração multi-agente
-- 🏠 A automatizar a casa com Home Assistant, Shelly e um Android TV que se porta bem
+- 🏠 A automatizar a casa, carro com Home Assistant, Shelly e outos
 - 🌍 Falo Português (PT), Inglês, e SQL quando é preciso
 ---
  
