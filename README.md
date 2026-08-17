@@ -1,9 +1,18 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrccardoso/jrccardoso/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jrccardoso/jrccardoso/output/github-snake.svg" />
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/jrccardoso/jrccardoso/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!--
 <h1 align="center">Olá, sou o João Cardoso 👋</h1>
 
 <p align="center">
   Manager @ Accenture · AI Transformation & SDLC Agentification · Modernização de plataformas
 </p>
-
+-->
 <p align="center">
   <a href="https://www.linkedin.com/in/joaorccardoso"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=jrccardoso&style=flat-square&color=6f42c1" alt="Profile views"/>
@@ -38,15 +47,6 @@ Consultor de tecnologia focado em transformação com IA e modernização de sof
 
 **Áreas:** AI/GenAI · RAG & embeddings · Agentic AI (MCP/A2A) · QA & Test Automation · Modernização de legacy
 
----
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrccardoso/jrccardoso/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jrccardoso/jrccardoso/output/github-snake.svg" />
-    <img alt="github snake animation" src="https://raw.githubusercontent.com/jrccardoso/jrccardoso/output/github-snake.svg" />
-  </picture>
-</p>
 <!--
 ### 📊 GitHub em números
 
