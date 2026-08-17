@@ -55,11 +55,13 @@ Consultor de tecnologia focado em transformação com IA e modernização de sof
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrccardoso&layout=compact&theme=react&hide_border=true&bg_color=0D1117&langs_count=8" alt="top languages"/>
 </p>
 -->
+---
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrccardoso&theme=react&hide_border=true&background=0D1117" alt="streak"/>
 </p>
 
----
+
 
 
 
