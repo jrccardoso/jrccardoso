@@ -42,6 +42,14 @@ Consultor de tecnologia focado em transformação com IA e modernização de sof
 
 ---
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrccardoso/jrccardoso/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jrccardoso/jrccardoso/output/github-snake.svg" />
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/jrccardoso/jrccardoso/output/github-snake.svg" />
+  </picture>
+</p>
+<!--
 ### 📊 GitHub em números
 
 <p align="center">
@@ -54,16 +62,9 @@ Consultor de tecnologia focado em transformação com IA e modernização de sof
 </p>
 
 ---
+-->
 
-### 🐍 A minha cobra a comer contribuições
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jrccardoso/jrccardoso/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jrccardoso/jrccardoso/output/github-snake.svg" />
-    <img alt="github snake animation" src="https://raw.githubusercontent.com/jrccardoso/jrccardoso/output/github-snake.svg" />
-  </picture>
-</p>
 
 <!--
   Nota: os widgets de stats (github-readme-stats, streak-stats) são serviços
