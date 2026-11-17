@@ -19,9 +19,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # PAT com scope read:user -> permite captar contribuicoes privadas
-          # (visiveis) alem das publicas. Fallback para GITHUB_TOKEN se nao existir.
-          github_token: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          # Use the automatically issued token to avoid failures from expired PATs.
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
